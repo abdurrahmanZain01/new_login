@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">new_Login</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiemFpbmJhbmFuYSIsImEiOiJjazZyenRrYnIwMDdjM2xtazlidDJ4Y29tIn0.wzB8J-TJoRdosSB4jxp7Dg</string>
+    <string name="user_location_permission_explanation">
+        This app needs location permission to show functionally
+    </string>
+
+    <string name="user_location_permission_not_granted">
+        you didn\'t grant location permissions
+    </string>
+</resources>
